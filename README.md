@@ -1,4 +1,4 @@
-<h1 align="center">✨ Айжаркын | masallbekovaaijarkyn-cmyk ✨</h1>
+<h1 align="center">✨ Айжаркын ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=6ad7f7&size=24&center=true&vCenter=true&width=600&lines=Добро+пожаловать+на+мой+GitHub!;Frontend+%2F+Backend+Разработчик;Изучаю+Python+и+JavaScript;Всегда+развиваюсь+и+создаю+💙" />
@@ -29,7 +29,7 @@
 
 ## 🚀 Технологии, которые я использую
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,python,github" />
 </p>
 
 ---
