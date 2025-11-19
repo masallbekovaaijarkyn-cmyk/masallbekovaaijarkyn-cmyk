@@ -6,11 +6,11 @@
 
 ---
 
-## 🐍 Анимация Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masallbekovaaijarkyn-cmyk/masallbekovaaijarkyn-cmyk/main/github-contribution-grid-snake.svg" />
-</p>
 
+## 🐍 Snake Animation
+<p align="center">
+  <img src="https://github.com/masallbekovaaijarkyn-cmyk/masallbekovaaijarkyn-cmyk/raw/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 ---
 
 ## 📊 График активности на GitHub
