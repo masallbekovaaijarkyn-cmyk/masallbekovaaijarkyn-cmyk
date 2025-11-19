@@ -11,12 +11,20 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python&logoColor=white&colorA=6ad7f7&colorB=1e3a8a"/>
   <img src="https://img.shields.io/badge/Learning-Always💡-pink?style=for-the-badge&colorA=ff9a9e&colorB=fad0c4"/>
+  <img src="https://img.shields.io/badge/VSCode-💻-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=6ad7f7&colorB=1e3a8a"/>
+  <img src="https://img.shields.io/badge/PyCharm-🐱-black?style=for-the-badge&logo=pycharm&logoColor=white&colorA=555555&colorB=000000"/>
 </p>
 
 ---
 
+## 📝 Мои главные языки программирования
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masallbekovaaijarkyn-cmyk&layout=compact&theme=dark" alt="Топ языков" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masallbekovaaijarkyn-cmyk&layout=compact&theme=radical" alt="Топ языков" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" width="300" alt="sparkle effect"/>
 </p>
 
 ---
