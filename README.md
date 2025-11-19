@@ -7,9 +7,8 @@
 ---
 
 
-## 🐍 Snake Animation
 <p align="center">
-  <img src="https://github.com/masallbekovaaijarkyn-cmyk/masallbekovaaijarkyn-cmyk/raw/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=dark&count_private=true" alt="Айжаркын GitHub Stats" />
 </p>
 ---
 
