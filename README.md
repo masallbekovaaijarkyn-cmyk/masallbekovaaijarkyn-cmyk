@@ -5,12 +5,14 @@
 </p>
 
 ---
+<p align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/masallbekovaaijarkyn-cmyk/count.svg)
+</p>
 
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masallbekovaaijarkyn-cmyk&layout=compact&theme=dark" alt="Топ языков" />
 </p>
-
-
 ---
 
 ## 📊 График активности на GitHub
@@ -27,7 +29,6 @@
 
 ## 🌟 О себе
 - 💻 Изучаемые направления: **Python, JavaScript**  
-- 🎀 Симпатичная, трудолюбивая и креативная девушка 💙  
 - 🌱 Люблю быстро осваивать новое  
 - 🎧 Музыка, дизайн и код — мой мир  
 - ✨ Люблю создавать красивые проекты и делиться опытом  
