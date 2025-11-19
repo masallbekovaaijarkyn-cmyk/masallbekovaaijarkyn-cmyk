@@ -1,7 +1,7 @@
 <h1 align="center">✨ Айжаркын ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=6ad7f7&size=24&center=true&vCenter=true&width=600&lines=Добро+пожаловать+на+мой+GitHub!;%2F+Backend+Разработчик;Изучаю+Python+и+JavaScript;Всегда+развиваюсь+и+создаю+💙" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=6ad7f7&size=24&center=true&vCenter=true&width=600&lines=Добро+пожаловать+на+мой+GitHub!; Backend+Разработчик;Изучаю+Python+и+JavaScript;Всегда+развиваюсь+и+создаю+💙" />
 </p>
 
 ---
@@ -10,9 +10,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-💛-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-🌐-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-🎨-blue?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Learning-Always💡-pink?style=for-the-badge"/>
 </p>
 
@@ -35,7 +32,7 @@
 ---
 
 ## 🌟 О себе
-- 💻 Изучаемые направления: **Python, JavaScript**  
+- 💻 Изучаемые направления: **Python**  
 - 🌱 Люблю быстро осваивать новое  
 - 🎧 Музыка, дизайн и код — мой мир  
 - ✨ Люблю создавать красивые проекты и делиться опытом  
