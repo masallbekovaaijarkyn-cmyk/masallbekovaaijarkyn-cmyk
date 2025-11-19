@@ -1,39 +1,47 @@
-<h1 align="center">✨ Айжаркын |masallbekovaaijarkyn-cmyk ✨</h1>
+<h1 align="center">✨ Айжаркын | masallbekovaaijarkyn-cmyk ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=6ad7f7&size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Frontend+%2F+Backend+Developer;Learning+Python+and+JavaScript;Always+growing+and+creating+💙" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=6ad7f7&size=24&center=true&vCenter=true&width=600&lines=Добро+пожаловать+на+мой+GitHub!;Frontend+%2F+Backend+Разработчик;Изучаю+Python+и+JavaScript;Всегда+развиваюсь+и+создаю+💙" />
 </p>
 
 ---
 
-## 🐍 Snake Animation
+## 🐍 Анимация Snake
 <p align="center">
-  <img src="https://github.com/masallbekovaijarkyn-cmyk/masallbekovaijarkyn-cmyk/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/masallbekovaaijarkyn-cmyk/masallbekovaaijarkyn-cmyk/main/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📊 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=masallbekovaijarkyn-cmyk&theme=github-dark&area=true)
+## 📊 График активности на GitHub
+![График активности GitHub](https://github-readme-activity-graph.vercel.app/graph?username=masallbekovaaijarkyn-cmyk&theme=github-dark&area=true)
 
 ---
 
-## 🚀 Technologies I use
+## 🚀 Технологии, которые я использую
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,github,git,vscode" />
 </p>
 
 ---
 
-## 🌟 About me
-- 💻 Учуп жаткан багыттар: **Python, JavaScript**
-- 🎀 Сүйкүмдүү, эмгекчил жана чыгармачыл кыз 💙  
-- 🌱 Жаңы нерселерди бат үйрөнгөндү жакшы көрөм  
-- 🎧 Музыка, дизайн жана код — менин дүйнөм  
+## 🌟 О себе
+- 💻 Изучаемые направления: **Python, JavaScript**  
+- 🎀 Симпатичная, трудолюбивая и креативная девушка 💙  
+- 🌱 Люблю быстро осваивать новое  
+- 🎧 Музыка, дизайн и код — мой мир  
+- ✨ Люблю создавать красивые проекты и делиться опытом  
 
 ---
 
-## 📬 Связаться со мной
-<p>
-  <a href="https://t.me/masallbekovaijarkyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+## 💌 Связаться со мной
+<p align="center">
+  <a href="https://t.me/masalbekova10" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+---
+
+## 🌈 Немного веселья
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=20&center=true&vCenter=true&width=500&lines=Создаю+код+с+любовью+💖;Учусь+каждый+день+и+расту+🌱;Люблю+музыку+и+дизайн+🎨;Присоединяйтесь+ко+мне+в+путешествии+✨" />
 </p>
