@@ -8,8 +8,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=dark&count_private=true" alt="Айжаркын GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=24&center=true&vCenter=true&width=600&lines=Учусь+каждый+день+и+расту+🌱;Создаю+код+с+любовью+💖;Присоединяйтесь+ко+мне+в+путешествии+✨" />
 </p>
+
 ---
 
 ## 📊 График активности на GitHub
