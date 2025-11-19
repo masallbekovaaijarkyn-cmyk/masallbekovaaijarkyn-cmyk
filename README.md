@@ -5,10 +5,16 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masallbekovaaijarkyn-cmyk/assets/main/coding-girl.gif" width="300"/>
-</p>
 
+## 🌟 Навыки и fun badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-💛-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-🌐-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-🎨-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-Always💡-pink?style=for-the-badge"/>
+</p>
 
 ---
 <p align="center">
