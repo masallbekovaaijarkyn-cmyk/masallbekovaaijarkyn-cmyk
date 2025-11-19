@@ -6,6 +6,11 @@
 
 ---
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+</p>
+
+---
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masallbekovaaijarkyn-cmyk&layout=compact&theme=dark" alt="Топ языков" />
 </p>
 ---
