@@ -26,7 +26,7 @@
 
 ## 🚀 Технологии, которые я использую
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,github" />
+  <img src="https://skillicons.dev/icons?i=python,github" />
 </p>
 
 ---
