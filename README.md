@@ -36,7 +36,7 @@
   <a href="https://t.me/masalbekova10" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/masalbekova.a" target="_blank">
+  <a href="https://instagram.com/masalbekowa.a" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/masallbekovaaijarkyn-cmyk" target="_blank">
