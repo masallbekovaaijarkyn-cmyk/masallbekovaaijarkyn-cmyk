@@ -6,10 +6,10 @@
 
 ---
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=24&center=true&vCenter=true&width=600&lines=Учусь+каждый+день+и+расту+🌱;Создаю+код+с+любовью+💖;Присоединяйтесь+ко+мне+в+путешествии+✨" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masallbekovaaijarkyn-cmyk&layout=compact&theme=dark" alt="Топ языков" />
 </p>
+
 
 ---
 
