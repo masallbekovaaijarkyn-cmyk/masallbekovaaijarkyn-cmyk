@@ -17,6 +17,13 @@
 
 ---
 
+## 👀 Сколько людей посмотрело мой профиль
+<p align="center">
+  <img src="https://profile-counter.glitch.me/masallbekovaaijarkyn-cmyk/count.svg" alt="Visitor Count" />
+</p>
+
+
+---
 ## 📝 Мои главные языки программирования
 
 <p align="center">
