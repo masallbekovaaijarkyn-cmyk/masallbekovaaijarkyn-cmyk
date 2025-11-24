@@ -52,7 +52,7 @@
 ## 💌 Связаться со мной
 
 <p align="center">
-  <a href="https://t.me/masalbekova10" target="_blank">
+  <a href="https://t.me/masalbekovas" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&colorA=6ad7f7&colorB=1e3a8a"/>
   </a>
   <a href="https://instagram.com/masalbekowa.a" target="_blank">
