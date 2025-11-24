@@ -19,9 +19,8 @@
 
 ## 👀 Сколько людей посмотрело мой профиль
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masallbekovaaijarkyn-cmyk&style=for-the-badge&color=ff69b4" />
+  <img src="https://komarev.com/ghpvc/?username=masallbekovaaijarkyn-cmyk&style=flat-square&color=blue&label=PROFILE+VIEWS" />
 </p>
-
 
 
 ---
