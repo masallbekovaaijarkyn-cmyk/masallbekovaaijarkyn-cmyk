@@ -19,8 +19,9 @@
 
 ## 👀 Сколько людей посмотрело мой профиль
 <p align="center">
-  <img src="https://profile-counter.glitch.me/masallbekovaaijarkyn-cmyk/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=masallbekovaaijarkyn-cmyk&style=for-the-badge&color=ff69b4" />
 </p>
+
 
 
 ---
