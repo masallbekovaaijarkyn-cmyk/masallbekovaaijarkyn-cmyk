@@ -23,6 +23,25 @@
 
 ---
 
+### 📈 Уровень навыков
+<p align="center">
+  <b>Python Core</b> <br/>
+  <img src="https://geps.dev/progress/75?dangerColor=FF69B4&accumuColor=FF69B4&showSecondaryProgress=true" /> <br/>
+  <b>Django / Backend Development</b> <br/>
+  <img src="https://geps.dev/progress/55?dangerColor=FF69B4&accumuColor=FF69B4&showSecondaryProgress=true" /> <br/>
+  <b>HTML / CSS</b> <br/>
+  <img src="https://geps.dev/progress/40?dangerColor=FF69B4&accumuColor=FF69B4&showSecondaryProgress=true" />
+</p>
+
+---
+
+### 🐍 GitHub Snake Game
+<p align="center">
+  <img src="https://raw.githubusercontent.com/masallbekovaaijarkyn-cmyk/masallbekovaaijarkyn-cmyk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 📊 Моя статистика
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&hide_border=true" width="400" />
@@ -31,15 +50,17 @@
 
 ---
 
-### 🏆 Достижения и Статус
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-FF69B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Love-blue?style=for-the-badge" />
-</p>
+### 🎯 Мои цели на 2025 год
+- [ ] 🐍 Стать Middle Python Developer
+- [ ] 🤖 Разработать и запустить сложного Telegram-бота
+- [ ] 🌍 Внести вклад в Open Source проект
+- [ ] 🎨 Улучшить навыки в архитектуре баз данных
 
+---
+
+### 💡 Мотивация от великих
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masallbekovaaijarkyn-cmyk&theme=radical&hide_border=true&stroke=FF69B4&ring=FF69B4&fire=FF69B4" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FAD0C4&size=20&center=true&vCenter=true&width=800&lines=Ваше+время+ограничено+не+тратьте+его+живя+чужой+жизнью.+—+Стив+Джобс;Работать+нужно+не+12+часов+а+головой!+—+Стив+Джобс;Успех+—+скверный+учитель.+Он+заставляет+умных+людей+думать+что+они+не+могут+проиграть.+—+Билл+Гейтс;Праздновать+успех+—+это+прекрасно+но+куда+важнее+извлекать+уроки+из+неудач.+—+Билл+Гейтс" />
 </p>
 
 ---
@@ -51,13 +72,5 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/masallbekovaaijarkyn-cmyk/count.svg" alt="Visitor Count" />
-  <br>
-  <font color="grey">Количество просмотров моего профиля</font>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmasallbekovaaijarkyn-cmyk&count_bg=%23FF69B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Просмотры&edge_flat=false" alt="Views" />
 </p>
