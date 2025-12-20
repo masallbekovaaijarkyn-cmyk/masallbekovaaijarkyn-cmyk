@@ -1,7 +1,9 @@
-<h1 align="center">✨ Айжаркын ✨</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=✨+АЙЖАРКЫН+✨" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=25&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Создаю+красивый+и+чистый+код;Постоянно+учусь+новому;Превращаю+идеи+в+реальность+💙" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FAD0C4&size=22&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Создаю+красивый+и+чистый+код;Постоянно+учусь+новому;Превращаю+идеи+в+реальность+💙" />
 </p>
 
 ---
@@ -16,10 +18,10 @@
 
 ---
 
-### 🎵 Сейчас слушаю в Spotify
+### 🎵 Мой музыкальный вайб
 <p align="center">
-  <a href="https://open.spotify.com/user/ВАШ_ID_ЭГЕР_БИЛСЕҢИЗ">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/run?title=Listening%20to%20Spotify&user=masallbekovaaijarkyn-cmyk&theme=dark&background_color=000000&title_color=FF69B4&bar_color=FF69B4" alt="Spotify" width="400" />
+  <a href="https://open.spotify.com/user/ваша_ссылка_на_профиль">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=masallbekovaaijarkyn-cmyk&cover_image=true&theme=dark&show_offline=true&background_color=121212&interact=true" alt="Spotify" />
   </a>
 </p>
 
@@ -52,7 +54,7 @@
 
 ### 💡 Мотивация от великих
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FAD0C4&size=20&center=true&vCenter=true&width=800&lines=Ваше+время+ограничено+не+тратьте+его+живя+чужой+жизнью.+—+Стив+Джобс;Работать+нужно+не+12+часов+а+головой!+—+Стив+Джобс;Успех+—+скверный+учитель.+Он+заставляет+умных+людей+думать+что+они+не+могут+проиграть.+—+Билл+Гейтс;Праздновать+успех+—+это+прекрасно+но+куда+важнее+извлекать+уроки+из+неудач.+—+Билл+Гейтс" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FAD0C4&size=20&center=true&vCenter=true&width=800&lines=Ваше+время+ограничено+—+Стив+Джобс;Работать+нужно+не+12+часов+а+головой!+—+Стив+Джобс;Успех+—+скверный+учитель.+—+Билл+Гейтс;Уроки+важнее+чем+празднование+успеха.+—+Билл+Гейтс" />
 </p>
 
 ---
@@ -60,9 +62,9 @@
 ### 💌 Контакты
 <p align="center">
   <a href="https://t.me/masalbekovas" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/masalbekowa.a" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/masalxxouww" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masallbekovaaijarkyn-cmyk&color=ff69b4&style=for-the-badge&label=VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=masallbekovaaijarkyn-cmyk&color=ff69b4&style=flat-square&label=ПРИШЛО+ЛЮДЕЙ" alt="Views" />
 </p>
