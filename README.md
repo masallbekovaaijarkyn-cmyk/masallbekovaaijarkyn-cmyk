@@ -16,10 +16,20 @@
 
 ---
 
+### 🎵 Сейчас слушаю в Spotify
+<p align="center">
+  <a href="https://open.spotify.com/user/ВАШ_ID_ЭГЕР_БИЛСЕҢИЗ">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/run?title=Listening%20to%20Spotify&user=masallbekovaaijarkyn-cmyk&theme=dark&background_color=000000&title_color=FF69B4&bar_color=FF69B4" alt="Spotify" width="400" />
+  </a>
+</p>
+
+---
+
 ### 🛠 Технологический стек
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,html,css,git,github,vscode,pycharm,postgres,sqlite,linux,docker" />
 </p>
+
 
 ---
 
@@ -28,33 +38,15 @@
   <b>Python Core</b> <br/>
   <img src="https://geps.dev/progress/75?dangerColor=FF69B4&accumuColor=FF69B4&showSecondaryProgress=true" /> <br/>
   <b>Django / Backend Development</b> <br/>
-  <img src="https://geps.dev/progress/55?dangerColor=FF69B4&accumuColor=FF69B4&showSecondaryProgress=true" /> <br/>
-  <b>HTML / CSS</b> <br/>
-  <img src="https://geps.dev/progress/40?dangerColor=FF69B4&accumuColor=FF69B4&showSecondaryProgress=true" />
+  <img src="https://geps.dev/progress/55?dangerColor=FF69B4&accumuColor=FF69B4&showSecondaryProgress=true" />
 </p>
 
 ---
 
-### 🐍 GitHub Snake Game
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masallbekovaaijarkyn-cmyk/masallbekovaaijarkyn-cmyk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 📊 Моя статистика
+### 📊 Статистика
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masallbekovaaijarkyn-cmyk&layout=compact&theme=radical&title_color=FF69B4&hide_border=true" width="300" />
 </p>
-
----
-
-### 🎯 Мои цели на 2025 год
-- [ ] 🐍 Стать Middle Python Developer
-- [ ] 🤖 Разработать и запустить сложного Telegram-бота
-- [ ] 🌍 Внести вклад в Open Source проект
-- [ ] 🎨 Улучшить навыки в архитектуре баз данных
 
 ---
 
@@ -65,12 +57,12 @@
 
 ---
 
-### 💌 Связаться со мной
+### 💌 Контакты
 <p align="center">
   <a href="https://t.me/masalbekovas" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://instagram.com/masalbekowa.a" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmasallbekovaaijarkyn-cmyk&count_bg=%23FF69B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Просмотры&edge_flat=false" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=masallbekovaaijarkyn-cmyk&color=ff69b4&style=for-the-badge&label=VIEWS" alt="Views" />
 </p>
