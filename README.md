@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=✨+АЙЖАРКЫН+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=55&pause=1000&color=FAD0C4&center=true&vCenter=true&width=600&lines=✨+Aijarkyn+✨" />
 </p>
 
 <p align="center">
@@ -17,14 +17,20 @@
 </p>
 
 ---
-
-### 🎵 Мой музыкальный вайб
+### 🎵 Coding Soundtrack: Lana Del Rey
 <p align="center">
-  <a href="https://open.spotify.com/user/ваша_ссылка_на_профиль">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=masallbekovaaijarkyn-cmyk&cover_image=true&theme=dark&show_offline=true&background_color=121212&interact=true" alt="Spotify" />
+  <img src="https://img.shields.io/badge/Currently_Vibing_To-Lana_Del_Rey-8B0000?style=for-the-badge&logo=spotify&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/artist/00FQwHwsITST6KFbsDS89p">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=masallbekovaaijarkyn-cmyk&cover_image=true&theme=dark&background_color=000000&bar_color=FF69B4&interact=true" alt="Lana Del Rey Vibe" />
   </a>
 </p>
 
+<p align="center">
+  <i>"Live fast. Die young. Be wild. Have fun."</i> — 🌹
+</p>
 ---
 
 ### 🛠 Технологический стек
