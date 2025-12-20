@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=55&pause=1000&color=FAD0C4&center=true&vCenter=true&width=600&lines=+Aijarkyn+" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=55&pause=1000&color=FAD0C4&center=true&vCenter=true&width=600&lines=+Masalbekova Aijarkyn+" />
 </p>
 
 <p align="center">
