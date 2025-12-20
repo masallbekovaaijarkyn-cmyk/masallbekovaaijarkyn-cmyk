@@ -4,70 +4,49 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=25&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Создаю+красивый+и+чистый+код;Постоянно+учусь+новому;Превращаю+идеи+в+реальность+💙" />
 </p>
 
+---
+
+### 👩‍💻 О себе
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aijarkyn/Aijarkyn/main/assets/line-art.gif" width="100%">
+  🚀 Специализируюсь на <b>Backend-разработке</b> (Python).<br>
+  📚 Сейчас активно изучаю: <b>Django, FastAPI и базы данных</b>.<br>
+  🎨 Верю, что код должен быть не только рабочим, но и эстетичным.<br>
+  🎧 Мой идеальный рабочий процесс: <b>Код + Музыка + Дизайн</b>.
 </p>
 
 ---
 
-## 👩‍💻 Обо мне
-
-- 🚀 Специализируюсь на **Backend-разработке** (Python).
-- 📚 Сейчас активно изучаю: **Django, FastAPI и архитектуру баз данных**.
-- 🎨 Верю, что код должен быть не только рабочим, но и эстетичным.
-- 🎧 Мой идеальный рабочий процесс: **Код + Музыка + Дизайн**.
-
----
-
-## 🛠 Технологический стек
-
-### 💻 Языки и Фреймворки
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,html,css" />
-</p>
-
-### 🧰 Инструменты и БД
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postgres,sqlite,linux,docker,postman" />
-</p>
-
----
-
-## 📊 Моя статистика GitHub
-
+### 🛠 Технологический стек
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masallbekovaaijarkyn-cmyk&layout=compact&theme=radical&hide_border=true&title_color=FF69B4&text_color=ffffff" width="48%" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,html,css,git,github,vscode,pycharm,postgres,sqlite,linux,docker" />
 </p>
 
-<br clear="both">
+---
 
-### 📈 Активность
+### 📊 Статистика и Активность
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masallbekovaaijarkyn-cmyk&layout=compact&theme=radical&title_color=FF69B4&hide_border=true" width="300" />
+</p>
+
 <p align="center">
   <img src="https://readme-activity-graph.vercel.app/graph?username=masallbekovaaijarkyn-cmyk&theme=github-dark&area=true&color=FF69B4&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 🎖 Достижения (GitHub Trophies)
+### 🏆 Достижения
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masallbekovaaijarkyn-cmyk&theme=radical&no-bg=true&column=4" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=masallbekovaaijarkyn-cmyk&theme=radical&no-bg=true&column=4" />
 </p>
 
 ---
 
-## 💌 Связаться со мной
-
+### 💌 Связаться со мной
 <p align="center">
-  <a href="https://t.me/masalbekovas">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/masalxxouww">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:masallbekovaaijarkyn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://t.me/masalbekovas" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/masalbekowa.a" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:masallbekovaaijarkyn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
