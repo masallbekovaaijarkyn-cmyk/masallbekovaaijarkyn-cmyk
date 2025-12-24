@@ -1,82 +1,66 @@
+<!-- TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=50&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=AIJARKYN+MASALBEKOVA" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=45&pause=900&color=D4AF37&center=true&vCenter=true&width=800&lines=AIJARKYN+MASALBEKOVA;Backend+Developer;Python+%7C+Django+%7C+FastAPI" />
 </p>
 
 <p align="center">
-  <i align="center">"Behind every exquisite thing that existed, there was something tragic." — Lana Del Rey</i>
-</p>
-
----
-
-### 🥀 Profile
-Backend Developer на Python. Мой подход к коду — это чистота, структура и архитектурная эстетика. Верю, что программирование — это современное искусство.
-
-- 🖋️ **Направления:** Backend Development, API Design.
-- 🥀 **Вдохновение:** Lana Del Rey, Classic Aesthetic, Clean Code.
-
----
-
-### 🎼 Soundtrack of my Code
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently_Vibing_To-Lana_Del_Rey-8B0000?style=for-the-badge&logo=spotify&logoColor=white" />
+  <i>"Some things break your heart, but fix your vision." — Lana Del Rey</i>
 </p>
 
 ---
 
-### 🛠️ Технологический арсенал
+### 🥀 About Me
+Backend Developer, кто видит код как архитектуру, эстетику и тихое искусство.  
+Люблю создавать системы, которые работают чисто, предсказуемо и изящно.
+
+- 🖤 Backend • Python • Django • FastAPI  
+- 🥀 Эстетика: Lana Del Rey, Vintage Gold, Classic Minimalism  
+- 🌑 Философия: “Стиль — это код, доведённый до тишины.”
+
+---
+
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,git,github,vscode,pycharm,linux,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,git,github,linux,docker,vscode,pycharm&theme=dark" />
 </p>
 
 ---
 
-### 📈 Профессиональные навыки
-<p align="center">
-  <img src="https://img.shields.io/badge/Python_Expertise-75%25-D4AF37?style=flat-square" />
-  <img src="https://img.shields.io/badge/Django_Architecture-55%25-D4AF37?style=flat-square" />
-  <img src="https://img.shields.io/badge/API_Design-50%25-D4AF37?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database_Management-60%25-D4AF37?style=flat-square" />
-</p>
+### 🖤 GitHub Stats  
 
----
-
-### 📊 Статистика (GitHub & Activity)
 <p align="center">
-  <a href="https://github.com/masallbekovaaijarkyn-cmyk">
-    <img src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=radical&title_color=D4AF37&icon_color=D4AF37&hide_border=true" width="400" />
-  </a>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=radical&title_color=D4AF37&icon_color=D4AF37&hide_border=true" />
   <br/>
-  <a href="https://github.com/masallbekovaaijarkyn-cmyk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masallbekovaaijarkyn-cmyk&layout=compact&theme=radical&title_color=D4AF37&hide_border=true" width="300" />
-  </a>
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masallbekovaaijarkyn-cmyk&layout=compact&theme=radical&title_color=D4AF37&hide_border=true" />
 </p>
 
 ---
 
-### 🏛️ Roadmap 2025
-- [x] **Foundations:** Mastering Python & Data Structures.
-- [ ] **Architecture:** Deep dive into Microservices & FastAPI.
-- [ ] **Elegance:** Mastering Clean Code & Design Patterns.
+### 🌙 2025 Roadmap
+- [x] Strengthen Python Core  
+- [ ] Dive into Microservices  
+- [ ] FastAPI Advanced Architecture  
+- [ ] Mastery of Clean Code & Patterns  
 
 ---
 
-### 🏆 Мои трофеи 
+### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masallbekovaaijarkyn-cmyk&theme=darkhub&column=4&no-bg=true" width="600" />
+  <img src="https://github-profile-trophy.vercel.app/?username=masallbekovaaijarkyn-cmyk&theme=darkhub&no-bg=true&row=1&margin-w=10" />
 </p>
 
 ---
 
-### 💌 Connect with me
+### 🥀 Find Me
 <p align="center">
-  <a href="https://t.me/masalbekovas" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-1a1a1a?style=for-the-badge&logo=telegram&logoColor=D4AF37" />
+  <a href="https://t.me/masalbekovas">
+    <img src="https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=D4AF37">
   </a>
-  <a href="https://instagram.com/masalbekowa.a" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=D4AF37" />
+  <a href="https://instagram.com/masalbekowa.a">
+    <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=D4AF37">
   </a>
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=masallbekovaaijarkyn-cmyk&color=D4AF37&style=flat-square&label=VISITORS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=masallbekovaaijarkyn-cmyk&color=D4AF37&style=flat-square&label=VISITORS" />
 </p>
