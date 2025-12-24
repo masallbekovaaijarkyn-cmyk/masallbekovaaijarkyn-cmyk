@@ -8,34 +8,24 @@
 
 ---
 
-### 🏛️ Profile
+### 🥀 Profile
 <p align="left">
-  <b>Backend Developer</b> специализирующийся на Python. Мой подход к коду — это чистота, структура и архитектурная эстетика. Верю, что программирование — это современное искусство.
+  <b>Backend Developer</b> на Python. Мой подход к коду — это чистота, структура и архитектурная эстетика. Верю, что программирование — это современное искусство.
 </p>
 
 ---
 
-### 🎼 Soundtrack of my Code
+### 🎼 Soundtrack of my Code: Lana Del Rey
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=masallbekovaaijarkyn-cmyk&cover_image=true&theme=dark&background_color=1a1a1a&bar_color=D4AF37&interact=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=masallbekovaaijarkyn-cmyk&cover_image=true&theme=dark&background_color=1a1a1a&bar_color=D4AF37&interact=true" alt="Lana Del Rey Vibe" />
-  </a>
+  <img src="https://img.shields.io/badge/Currently_Vibing_To-Lana_Del_Rey-8B0000?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ Технологический арсенал & Статистика
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <b>Основные инструменты</b> <br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,git,github,vscode,pycharm,linux,docker&theme=dark" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=transparent&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+### 🛠️ Технологический арсенал
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,git,github,vscode,pycharm,linux,docker&theme=dark" />
+</p>
 
 ---
 
@@ -47,14 +37,19 @@
   <img src="https://img.shields.io/badge/Database_Management-60%25-D4AF37?style=flat-square" />
 </p>
 
+---
+
+### 📊 Статистика активности
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masallbekovaaijarkyn-cmyk&layout=compact&theme=transparent&title_color=D4AF37&text_color=ffffff&hide_border=true" width="400" />
+  <a href="https://github.com/masallbekovaaijarkyn-cmyk">
+    <img src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=radical&title_color=D4AF37&icon_color=D4AF37&hide_border=true" alt="GitHub Stats" />
+  </a>
 </p>
 
 ---
 
 ### 🏛️ Roadmap 2025
-- [x] **Foundations:** Python & Data Structures.
+- [x] **Foundations:** Mastering Python & Data Structures.
 - [ ] **Architecture:** Deep dive into Microservices & FastAPI.
 - [ ] **Elegance:** Mastering Clean Code & Design Patterns.
 
