@@ -39,19 +39,32 @@
 
 ---
 
-### 📊 Статистика активности
-<p align="center">
-  <a href="https://github.com/masallbekovaaijarkyn-cmyk">
-    <img src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=radical&title_color=D4AF37&icon_color=D4AF37&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
-
----
-
 ### 🏛️ Roadmap 2025
 - [x] **Foundations:** Mastering Python & Data Structures.
 - [ ] **Architecture:** Deep dive into Microservices & FastAPI.
 - [ ] **Elegance:** Mastering Clean Code & Design Patterns.
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=masallbekovaaijarkyn-cmyk&theme=shades-of-purple&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
+---
+
+### ⌨️ Coding Activity (Last 7 Days)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=masallbekovaaijarkyn-cmyk&layout=compact&theme=radical&title_color=D4AF37&icon_color=D4AF37&hide_border=true" alt="WakaTime Stats" />
+</p>
+
+---
+
+### ☕ Support My Work
+<p align="center">
+  <a href="https://www.buymeacoffee.com/aijarkyn" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-1a1a1a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=D4AF37" />
+  </a>
+</p>
 
 ---
 
