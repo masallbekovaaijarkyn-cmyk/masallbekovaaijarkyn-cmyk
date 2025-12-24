@@ -1,76 +1,77 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=55&pause=1000&color=FAD0C4&center=true&vCenter=true&width=600&lines=+Masalbekova Aijarkyn+" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=45&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=AIJARKYN+MASALBEKOVA" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FAD0C4&size=22&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Создаю+красивый+и+чистый+код;Постоянно+учусь+новому;Превращаю+идеи+в+реальность+💙" />
-</p>
-
----
-
-### 👩‍💻 О себе
-<p align="center">
-  🚀 Специализируюсь на <b>Backend-разработке</b> (Python).<br>
-  📚 Сейчас активно изучаю: <b>Django, FastAPI и базы данных</b>.<br>
-  🎨 Верю, что код должен быть не только рабочим, но и эстетичным.<br>
-  🎧 Мой идеальный рабочий процесс: <b>Код + Музыка + Дизайн</b>.
+  <i align="center">"Behind every exquisite thing that existed, there was something tragic." — Lana Del Rey</i>
 </p>
 
 ---
-### 🎵 Coding Soundtrack: Lana Del Rey
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently_Vibing_To-Lana_Del_Rey-8B0000?style=for-the-badge&logo=spotify&logoColor=white" />
+
+### 🏛️ Profile
+<p align="left">
+  <b>Backend Developer</b> специализирующийся на Python. Мой подход к коду — это чистота, структура и архитектурная эстетика. Верю, что программирование — это современное искусство.
 </p>
 
+- 🖋️ **Направления:** Backend Development, API Design, Database Architecture.
+- 🥀 **Вдохновение:** Классическая литература, минимализм и музыка Ланы Дель Рей.
+- 📜 **Философия:** Писать код так, будто это бессмертный роман.
+
+---
+
+### 🎼 Soundtrack of my Code
 <p align="center">
-  <a href="https://open.spotify.com/artist/00FQwHwsITST6KFbsDS89p">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=masallbekovaaijarkyn-cmyk&cover_image=true&theme=dark&background_color=000000&bar_color=FF69B4&interact=true" alt="Lana Del Rey Vibe" />
+  <a href="https://open.spotify.com/artist/00FQwS6vCSTZcyo6O3GSwp">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=masallbekovaaijarkyn-cmyk&cover_image=true&theme=dark&background_color=1a1a1a&bar_color=D4AF37&interact=true" alt="Lana Del Rey Vibe" />
   </a>
 </p>
 
-<p align="center">
-  <i>"Live fast. Die young. Be wild. Have fun."</i> — 🌹
-</p>
 ---
 
-### 🛠 Технологический стек
+### 🛠️ Технологический арсенал
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,html,css,git,github,vscode,pycharm,postgres,sqlite,linux,docker" />
-</p>
-
-
----
-
-### 📈 Уровень навыков
-<p align="center">
-  <b>Python Core</b> <br/>
-  <img src="https://geps.dev/progress/75?dangerColor=FF69B4&accumuColor=FF69B4&showSecondaryProgress=true" /> <br/>
-  <b>Django / Backend Development</b> <br/>
-  <img src="https://geps.dev/progress/55?dangerColor=FF69B4&accumuColor=FF69B4&showSecondaryProgress=true" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,git,github,vscode,pycharm,linux,docker&theme=dark" />
 </p>
 
 ---
 
-### 📊 Статистика
+### 📈 Путь и Мастерство
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <b>Python Expertise</b> <br/>
+      <img src="https://geps.dev/progress/75?dangerColor=D4AF37&accumuColor=D4AF37&showSecondaryProgress=true" />
+    </td>
+    <td width="50%">
+      <b>Django Architecture</b> <br/>
+      <img src="https://geps.dev/progress/55?dangerColor=D4AF37&accumuColor=D4AF37&showSecondaryProgress=true" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=transparent&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&hide_border=true" width="450" />
 </p>
 
 ---
 
-### 💡 Мотивация от великих
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FAD0C4&size=20&center=true&vCenter=true&width=800&lines=Ваше+время+ограничено+—+Стив+Джобс;Работать+нужно+не+12+часов+а+головой!+—+Стив+Джобс;Успех+—+скверный+учитель.+—+Билл+Гейтс;Уроки+важнее+чем+празднование+успеха.+—+Билл+Гейтс" />
-</p>
+### 🏛️ Roadmap 2025
+- [x] **Foundations:** Python & Data Structures
+- [ ] **Architecture:** Deep dive into Microservices
+- [ ] **Elegance:** Mastering Clean Code & Design Patterns
 
 ---
 
-### 💌 Контакты
+### 💌 Connect with me
 <p align="center">
-  <a href="https://t.me/masalbekovas" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/masalxxouww" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/masalbekovas" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-1a1a1a?style=for-the-badge&logo=telegram&logoColor=D4AF37" />
+  </a>
+  <a href="https://instagram.com/masalbekowa.a" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=D4AF37" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masallbekovaaijarkyn-cmyk&color=ff69b4&style=flat-square&label=ПРИШЛО+ЛЮДЕЙ" alt="Views" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=masallbekovaaijarkyn-cmyk&color=D4AF37&style=flat-square&label=VISITORS" alt="Views" />
 </p>
