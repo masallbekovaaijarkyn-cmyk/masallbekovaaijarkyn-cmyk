@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=45&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=AIJARKYN+MASALBEKOVA" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=50&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=AIJARKYN+MASALBEKOVA" />
 </p>
 
 <p align="center">
@@ -13,65 +13,50 @@
   <b>Backend Developer</b> специализирующийся на Python. Мой подход к коду — это чистота, структура и архитектурная эстетика. Верю, что программирование — это современное искусство.
 </p>
 
-- 🖋️ **Направления:** Backend Development, API Design, Database Architecture.
-- 🥀 **Вдохновение:** Классическая литература, минимализм и музыка Ланы Дель Рей.
-- 📜 **Философия:** Писать код так, будто это бессмертный роман.
-
 ---
 
 ### 🎼 Soundtrack of my Code
 <p align="center">
-  <a href="https://open.spotify.com/artist/00FQwS6vCSTZcyo6O3GSwp">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=masallbekovaaijarkyn-cmyk&cover_image=true&theme=dark&background_color=1a1a1a&bar_color=D4AF37&interact=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=masallbekovaaijarkyn-cmyk&cover_image=true&theme=dark&background_color=1a1a1a&bar_color=D4AF37&interact=true" alt="Lana Del Rey Vibe" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Технологический арсенал
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,git,github,vscode,pycharm,linux,docker&theme=dark" />
-</p>
-
----
-
----
-
-### 📈 Путь и Мастерство
+### 🛠️ Технологический арсенал & Статистика
 <table align="center" width="100%">
   <tr>
-    <td align="left" width="50%">
-      <b>Python Expertise</b> • <i>Advanced</i> <br/>
-      <code>██████████████████▒▒▒</code> 75%
+    <td align="center" width="50%">
+      <b>Основные инструменты</b> <br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,git,github,vscode,pycharm,linux,docker&theme=dark" />
     </td>
-    <td align="left" width="50%">
-      <b>Django Architecture</b> • <i>Intermediate</i> <br/>
-      <code>████████████░░░░░░░░░</code> 55%
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="50%">
-      <b>FastAPI</b> • <i>Junior+</i> <br/>
-      <code>████████░░░░░░░░░░░░░</code> 40%
-    </td>
-    <td align="left" width="50%">
-      <b>SQL & Databases</b> • <i>Working</i> <br/>
-      <code>██████████░░░░░░░░░░░</code> 50%
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=transparent&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
 
+---
+
+### 📈 Профессиональные навыки
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=transparent&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&hide_border=true" width="450" />
+  <img src="https://img.shields.io/badge/Python_Expertise-75%25-D4AF37?style=flat-square" />
+  <img src="https://img.shields.io/badge/Django_Architecture-55%25-D4AF37?style=flat-square" />
+  <img src="https://img.shields.io/badge/API_Design-50%25-D4AF37?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database_Management-60%25-D4AF37?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masallbekovaaijarkyn-cmyk&layout=compact&theme=transparent&title_color=D4AF37&text_color=ffffff&hide_border=true" width="400" />
 </p>
 
 ---
----
 
 ### 🏛️ Roadmap 2025
-- [x] **Foundations:** Python & Data Structures
-- [ ] **Architecture:** Deep dive into Microservices
-- [ ] **Elegance:** Mastering Clean Code & Design Patterns
+- [x] **Foundations:** Python & Data Structures.
+- [ ] **Architecture:** Deep dive into Microservices & FastAPI.
+- [ ] **Elegance:** Mastering Clean Code & Design Patterns.
 
 ---
 
