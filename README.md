@@ -10,7 +10,7 @@
 ---
 
 ### 🥀 About Me  
-Backend Developer, кто видит код как эстетику, структуру и тихое искусство.  
+Backend Developer, который видит код как эстетику, структуру и искусство.  
 Создаю системы, которые работают чисто, стабильно и красиво.
 
 - 🖤 Backend • Python • Django • FastAPI  
@@ -26,18 +26,24 @@ Backend Developer, кто видит код как эстетику, струк�
 
 ---
 
-## 🖤 GitHub Stats (WORKING VERSION)
+## 🖤 GitHub Stats (Working)
+
 <p align="center">
-  <img width="400" src="https://github-readme-stats-godking999.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=radical&title_color=D4AF37&icon_color=D4AF37&hide_border=true" />
+  <!-- Profile Summary Cards -->
+  <img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masallbekovaaijarkyn-cmyk&theme=monokai" />
   <br/>
-  <img width="300" src="https://github-readme-stats-godking999.vercel.app/api/top-langs/?username=masallbekovaaijarkyn-cmyk&layout=compact&theme=radical&title_color=D4AF37&hide_border=true" />
+  <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masallbekovaaijarkyn-cmyk&theme=monokai" />
+  <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masallbekovaaijarkyn-cmyk&theme=monokai" />
+  <br/><br/>
+  <!-- Streak Stats -->
+  <img width="500" src="https://streak-stats.demolab.com?user=masallbekovaaijarkyn-cmyk&theme=monokai-metallian&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" />
 </p>
 
 ---
 
-## 🏆 Achievements (WORKING VERSION)
+## 🏆 Achievements (Working)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masallbekovaaijarkyn-cmyk&theme=onedark&no-frame=true&row=1&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=masallbekovaaijarkyn-cmyk&theme=monokai&no-frame=true&row=1&margin-w=15" />
 </p>
 
 ---
@@ -55,7 +61,7 @@ Backend Developer, кто видит код как эстетику, струк�
   <a href="https://t.me/masalbekovas">
     <img src="https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=D4AF37">
   </a>
-  <a href="https://instagram.com/masalbek0wa">
+  <a href="https://instagram.com/masalbekowa.a">
     <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=D4AF37">
   </a>
 </p>
