@@ -26,6 +26,13 @@ Backend Developer, который видит код как эстетику, с�
 
 ---
 
+## 🐍 Анимация активности
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+---
+
 ## 🖤 GitHub Stats (Working)
 
 <p align="center">
@@ -61,7 +68,7 @@ Backend Developer, который видит код как эстетику, с�
   <a href="https://t.me/masalbekovas">
     <img src="https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=D4AF37">
   </a>
-  <a href="https://instagram.com/masalbekowa.a">
+  <a href="https://instagram.com/masalbek0wa">
     <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=D4AF37">
   </a>
 </p>
