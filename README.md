@@ -38,11 +38,11 @@
 ### 📈 Путь и Мастерство
 <table align="center" width="100%">
   <tr>
-    <td width="50%">
+    <td align="center" width="50%">
       <b>Python Expertise</b> <br/>
       <img src="https://geps.dev/progress/75?dangerColor=D4AF37&accumuColor=D4AF37&showSecondaryProgress=true" />
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <b>Django Architecture</b> <br/>
       <img src="https://geps.dev/progress/55?dangerColor=D4AF37&accumuColor=D4AF37&showSecondaryProgress=true" />
     </td>
@@ -52,7 +52,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=masallbekovaaijarkyn-cmyk&show_icons=true&theme=transparent&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&hide_border=true" width="450" />
 </p>
-
 ---
 
 ### 🏛️ Roadmap 2025
