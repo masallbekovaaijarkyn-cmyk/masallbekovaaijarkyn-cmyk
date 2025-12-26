@@ -10,9 +10,13 @@
 ---
  ## 🐍 Анимация активности 
  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masallbekovaaijarkyn-cmyk/masallbekovaaijarkyn-cmyk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+ <p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
 </p>
+
+
 
 ---
 
