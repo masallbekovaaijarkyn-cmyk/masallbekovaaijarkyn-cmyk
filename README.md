@@ -1,11 +1,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=45&pause=900&color=D4AF37&center=true&vCenter=true&width=800&lines=AIJARKYN+MASALBEKOVA;Backend+Developer;Python+%7C+Django+%7C" />
 </p>
-> [!IMPORTANT]
-> <p align="center">
->   <font face="Georgia" size="5">«Некоторые вещи <b>разбивают</b> твое сердце, но <b>исправляют</b> твое зрение»</font><br>
->   <font color="grey">— Лана Дель Рей</font>
-> </p>
+<p align="center">
+<img src="https://betterstack.com/community/questions/images/syntax-highlighting-python.png" width="20" /> <b>Backend Developer Philosophy:</b>
+</p>
+
+```python
+class Soul:
+    def __init__(self):
+        self.vision = "Fixed"
+        self.heart = "Broken"
+
+    # «Некоторые вещи разбивают твое сердце, но исправляют твое зрение»
+    def lana_del_rey_quote(self):
+        return f"Status: {self.heart} heart, but {self.vision} vision."
 ---
 
 ### 📈 Activity Graph
