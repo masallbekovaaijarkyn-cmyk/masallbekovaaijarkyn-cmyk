@@ -1,16 +1,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=45&pause=900&color=D4AF37&center=true&vCenter=true&width=800&lines=AIJARKYN+MASALBEKOVA;Backend+Developer;Python+%7C+Django+%7C" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/—+Lana+Del+Rey-1a1a1a?style=flat&labelColor=1a1a1a&color=D4AF37" />
-</p>
-
-<p align="center">
-  <br>
-  <font size="4"><i>«Некоторые вещи <b>разбивают</b> твое сердце, но <b>исправляют</b> твое зрение»</i></font>
-  <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="400" />
-</p>
+> [!IMPORTANT]
+> <p align="center">
+>   <font face="Georgia" size="5">«Некоторые вещи <b>разбивают</b> твое сердце, но <b>исправляют</b> твое зрение»</font><br>
+>   <font color="grey">— Лана Дель Рей</font>
+> </p>
 ---
 
 ### 📈 Activity Graph
