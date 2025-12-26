@@ -4,7 +4,10 @@
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=180&section=header&text=AIJARKYN&fontSize=80&fontColor=D4AF37&desc=Некоторые+вещи+разбивают+твое+сердце,+но+исправляют+твое+зрение&descSize=20&descAlignY=75&descAlign=50" />
+  <b>⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</b><br>
+  <font size="4" color="#ffffff"><i>«Некоторые вещи разбивают твое сердце, но исправляют твое зрение»</i></font><br>
+  <font size="2" color="#D4AF37">L  A  N  A     D  E  L     R  E  Y</font><br>
+  <b>⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</b>
 </p>
 ---
 
