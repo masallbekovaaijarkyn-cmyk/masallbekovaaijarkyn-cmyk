@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <i>"Some things break your heart, but fix your vision." — Lana Del Rey</i>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=25&pause=1000&color=FAD0C4&center=true&vCenter=true&width=800&lines=«Некоторые+вещи+разбивают+твое+сердце,+но+исправляют+твое+зрение»+—+Лана+Дель+Рей" />
 </p>
-
 ---
 
 ### 📈 Activity Graph
