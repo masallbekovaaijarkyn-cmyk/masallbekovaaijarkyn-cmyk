@@ -3,11 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&style=italic&size=25&color=D4AF37&center=true&vCenter=true&width=800&lines=«Некоторые+вещи+разбивают+твое+сердце,+но+исправляют+твое+зрение»" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=20&color=D4AF37&center=true&vCenter=true&width=800&lines=⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=22&color=D4AF37&center=true&vCenter=true&width=800&lines=L++A++N++A++++D++E++L++++R++E++Y" />
+  <font color="#D4AF37">══════════════════════════════════════════════</font><br>
+  <font size="4" color="#D4AF37"><i>«Некоторые вещи разбивают твое сердце, но исправляют твое зрение»</i></font><br>
+  <font size="2" color="#D4AF37"><b>L  A  N  A     D  E  L     R  E  Y</b></font><br>
+  <font color="#D4AF37">══════════════════════════════════════════════</font>
 </p>
 ---
 
