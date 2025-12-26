@@ -4,9 +4,7 @@
 
 
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com/?font=Georgia&style=italic&size=28&duration=1&color=D4AF37&center=true&vCenter=true&width=900&lines=Некоторые+вещи+разбивают+твое+сердце,+но+исправляют+твое+зрение](https://readme-typing-svg.herokuapp.com/?font=Georgia&style=italic&size=28&duration=1&color=D4AF37&center=true&vCenter=true&width=900&lines=Некоторые+вещи+разбивают+твое+сердце,+но+исправляют+твое+зрение)" />
-  <br>
-  <font color="grey"><b>— LANA DEL REY —</b></font>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=180&section=header&text=AIJARKYN&fontSize=80&fontColor=D4AF37&desc=Некоторые+вещи+разбивают+твое+сердце,+но+исправляют+твое+зрение&descSize=20&descAlignY=75&descAlign=50" />
 </p>
 ---
 
