@@ -1,19 +1,24 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=45&pause=900&color=D4AF37&center=true&vCenter=true&width=800&lines=AIJARKYN+MASALBEKOVA;Backend+Developer;Python+%7C+Django+%7C" />
 </p>
+
 <p align="center">
-<img src="https://betterstack.com/community/questions/images/syntax-highlighting-python.png" width="20" /> <b>Backend Developer Philosophy:</b>
+  <img src="https://img.shields.io/badge/SIDE_A-TRACK_01-D4AF37?style=flat-square&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/GENRE-BACKEND_PYTHON-D4AF37?style=flat-square&labelColor=0d0d0d" />
 </p>
 
-```python
-class Soul:
-    def __init__(self):
-        self.vision = "Fixed"
-        self.heart = "Broken"
+<p align="center">
+  <br>
+  <font face="Courier New" size="4" color="#D4AF37">● ━━━━━━───── 11:11</font><br>
+  <font face="Georgia" size="5">
+    <i>«Некоторые вещи <b>разбивают</b> твое сердце, <br> но <b>исправляют</b> твое зрение»</i>
+  </font><br>
+  <font face="Courier New" size="3" color="#888">⇆ &nbsp;&nbsp; ◁ &nbsp;&nbsp; ❚❚ &nbsp;&nbsp; ▷ &nbsp;&nbsp; ↻</font>
+</p>
 
-    # «Некоторые вещи разбивают твое сердце, но исправляют твое зрение»
-    def lana_del_rey_quote(self):
-        return f"Status: {self.heart} heart, but {self.vision} vision."
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="600" />
+</p>
 ---
 
 ### 📈 Activity Graph
