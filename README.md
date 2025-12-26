@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=45&pause=900&color=D4AF37&center=true&vCenter=true&width=800&lines=AIJARKYN+MASALBEKOVA;Backend+Developer;Python+%7C+Django+%7C" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=50&color=D4AF37&center=true&lines=AIJARKYN+MASALBEKOVA" />
-</p>
+
 
 <h3 align="center">
   <font color="#D4AF37">●</font> <i>Некоторые вещи разбивают твое сердце</i> <font color="#D4AF37">●</font><br>
