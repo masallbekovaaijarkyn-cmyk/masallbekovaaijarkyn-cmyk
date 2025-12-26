@@ -3,13 +3,10 @@
 </p>
 
 
-<h3 align="center">
-  <font color="#D4AF37">●</font> <i>Некоторые вещи разбивают твое сердце</i> <font color="#D4AF37">●</font><br>
-  <font size="4">но исправляют твое зрение</font>
-</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/—+Lana+Del+Rey-0d0d0d?style=for-the-badge&border=1&color=D4AF37" />
+  <img src="[https://readme-typing-svg.herokuapp.com/?font=Georgia&style=italic&size=28&duration=1&color=D4AF37&center=true&vCenter=true&width=900&lines=Некоторые+вещи+разбивают+твое+сердце,+но+исправляют+твое+зрение](https://readme-typing-svg.herokuapp.com/?font=Georgia&style=italic&size=28&duration=1&color=D4AF37&center=true&vCenter=true&width=900&lines=Некоторые+вещи+разбивают+твое+сердце,+но+исправляют+твое+зрение)" />
+  <br>
+  <font color="grey"><b>— LANA DEL REY —</b></font>
 </p>
 ---
 
