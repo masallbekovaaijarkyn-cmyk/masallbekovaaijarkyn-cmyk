@@ -6,21 +6,21 @@
   <i>"Some things break your heart, but fix your vision." — Lana Del Rey</i>
 </p>
 
-
 ---
- ## 🐍 Анимация активности 
- 
- <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masallbekovaaijarkyn-cmyk&theme=react-dark&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
-
-
 ---
 
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,sqlite,git,github,vscode,pycharm,linux,docker&theme=dark" />
+</p>
 
+---
 
 ### 🥀 Socials  
 <p align="center">
