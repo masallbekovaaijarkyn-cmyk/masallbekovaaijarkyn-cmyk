@@ -4,12 +4,13 @@
 
 
 <p align="center">
-  <font color="#D4AF37">
-    <b>⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</b><br>
-    <font size="4"><i>«Некоторые вещи разбивают твое сердце, но исправляют твое зрение»</i></font><br>
-    <font size="2">L  A  N  A     D  E  L     R  E  Y</font><br>
-    <b>⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</b>
-  </font>
+  <img src="https://k60.kn3.net/t_A88344600.png" width="800" height="2" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&style=italic&size=24&duration=1&color=D4AF37&center=true&vCenter=true&width=800&lines=«Некоторые+вещи+разбивают+твое+сердце,+но+исправляют+твое+зрение»" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=18&duration=1&color=D4AF37&center=true&vCenter=true&width=800&lines=L++A++N++A++++D++E++L++++R++E++Y" />
+  <br>
+  <img src="https://k60.kn3.net/t_A88344600.png" width="800" height="2" />
 </p>
 ---
 
