@@ -1,23 +1,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=45&pause=900&color=D4AF37&center=true&vCenter=true&width=800&lines=AIJARKYN+MASALBEKOVA;Backend+Developer;Python+%7C+Django+%7C" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/SIDE_A-TRACK_01-D4AF37?style=flat-square&labelColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/GENRE-BACKEND_PYTHON-D4AF37?style=flat-square&labelColor=0d0d0d" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Cinzel&size=50&color=D4AF37&center=true&lines=AIJARKYN+MASALBEKOVA" />
 </p>
 
-<p align="center">
-  <br>
-  <font face="Courier New" size="4" color="#D4AF37">● ━━━━━━───── 11:11</font><br>
-  <font face="Georgia" size="5">
-    <i>«Некоторые вещи <b>разбивают</b> твое сердце, <br> но <b>исправляют</b> твое зрение»</i>
-  </font><br>
-  <font face="Courier New" size="3" color="#888">⇆ &nbsp;&nbsp; ◁ &nbsp;&nbsp; ❚❚ &nbsp;&nbsp; ▷ &nbsp;&nbsp; ↻</font>
-</p>
+<h3 align="center">
+  <font color="#D4AF37">●</font> <i>Некоторые вещи разбивают твое сердце</i> <font color="#D4AF37">●</font><br>
+  <font size="4">но исправляют твое зрение</font>
+</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="600" />
+  <img src="https://img.shields.io/badge/—+Lana+Del+Rey-0d0d0d?style=for-the-badge&border=1&color=D4AF37" />
 </p>
 ---
 
