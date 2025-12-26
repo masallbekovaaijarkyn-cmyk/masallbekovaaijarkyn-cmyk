@@ -8,13 +8,9 @@
 
 
 ---
-
-## 🐍 Анимация активности
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=Aijarkyn&fontSize=90&fontColor=D4AF37&animation=fadeIn" />
 </p>
-
 
 ---
 
