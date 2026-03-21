@@ -26,7 +26,7 @@
 
 ### 🥀 Socials  
 <p align="center">
-  <a href="https://t.me/masalbekovas">
+  <a href="https://t.me/masalbekovaaij">
     <img src="https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=D4AF37">
   </a>
   <a href="https://instagram.com/masalbek0wa">
